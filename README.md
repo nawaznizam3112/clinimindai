@@ -1,0 +1,2 @@
+# clinimindai
+clinic ai
